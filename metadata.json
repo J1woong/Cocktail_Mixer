@@ -1,6 +1,0 @@
-{
-  "name": "Atelier Mixology - 칵테일 레시피 & 대체 재료 가이드",
-  "description": "전문 칵테일 레시피 검색, 보유 재료 기반 맞춤 칵테일 탐색 및 정밀한 대체 재료(Substitutes) 추천 바텐딩 가이드",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
